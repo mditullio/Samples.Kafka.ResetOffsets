@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Tools.ConsumeMessages/Tools.ConsumeMessages.csproj" Id="88b5371c-ba9b-463a-858b-2bdebd7f77be" />
+  <Project Path="Tools.CreateTopic/Tools.CreateTopic.csproj" Id="df9168db-e2a0-4ac7-b595-33a4cc4a9f9f" />
+  <Project Path="Tools.ProduceMessages/Tools.ProduceMessages.csproj" Id="7ef893c0-2025-418d-9959-346dfcf8960b" />
+  <Project Path="Tools.ResetOffsets/Tools.ResetOffsets.csproj" Id="dc380a3a-abb8-42c2-aca6-b36bd834b9ee" />
+</Solution>
